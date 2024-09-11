@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import MainVid from "../assets/home_bg.mp4"; // Ensure this path is correct
+import MainVid from "../assets/home.mp4"; // Ensure this path is correct
 
 const HomePage = () => {
   return (
