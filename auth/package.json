@@ -1,0 +1,11 @@
+{
+  "name": "auth",
+  "version": "1.0.0",
+  "main": "authServer.js",
+  "scripts": {
+    "dev": "nodemon authServer.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
