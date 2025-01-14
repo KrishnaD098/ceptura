@@ -1,9 +1,11 @@
 import React from 'react'
+import PDFReaderSection from '../components/PDFReaderSection';
+
 
 const tryceptura = () => {
   return (
     <div>
-      ye le isko try kr
+      <PDFReaderSection />
     </div>
   )
 }
